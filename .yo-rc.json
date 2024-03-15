@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "session",
+    "baseName": "testTodoapp",
+    "buildTool": "maven",
+    "cacheProvider": "caffeine",
+    "creationTimestamp": 1710462373882,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableGradleEnterprise": null,
+    "enableHibernateCache": true,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": false,
+    "gradleEnterpriseHost": null,
+    "jhipsterVersion": "8.1.0",
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "rememberMeKey": "771fef8e149ea95cad26d4fb231857531461bb02475c52336f84337390fa26e18604f2a7d0acaa578806ec2238cce9b9519d",
+    "searchEngine": false,
+    "serverPort": null,
+    "serverSideOptions": [],
+    "serviceDiscoveryType": false,
+    "skipClient": true,
+    "testFrameworks": [],
+    "websocket": false
+  }
+}
